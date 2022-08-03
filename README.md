@@ -23,10 +23,17 @@ The dataset contains questions all questions asked between August 2, 2008 and Oc
 
 ### how tf-idf converter works into vector form.
 
-![Screenshot from 2022-08-03 13-42-38](https://user-images.githubusercontent.com/51665663/182558740-ad2831a8-54e5-4052-ad8e-82bf6a6647ad.png)
+![project](https://user-images.githubusercontent.com/51665663/182559122-c4444f2c-6527-436c-9b87-90a450e78d4a.png)
 
 
-## Output :-
+## My Output :-
 
 
 ![Screenshot from 2022-08-03 12-50-25](https://user-images.githubusercontent.com/51665663/182556964-e42ebef6-ba04-47e5-9325-6e200a0cb61b.png)
+
+
+## elasticsearch output :- 
+
+![Screenshot from 2022-08-03 13-42-38](https://user-images.githubusercontent.com/51665663/182558740-ad2831a8-54e5-4052-ad8e-82bf6a6647ad.png)
+
+
